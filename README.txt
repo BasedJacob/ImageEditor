@@ -1,8 +1,7 @@
-The executable file is located in the 'executable' folder.
+Simply run the python file in source with command:
+python ImageAudioEditor
 
-Simply launch the executable, and give the program time to load.
-Then, press any of the above buttons 
-to open a file dialogue interface.
+An interface will appear with the options to edit image or edit audio. 
 
-Select a file, and the output should be shown on the page, and
-saved into the file from where the input was selected from.
+Select the image or audio file, and the completed output will be shown on the page, and
+saved into the folder from where the input file was selected from.
